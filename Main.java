@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-
+		//int 
 		int total = 21;
 		int player1;
 		int player2;
